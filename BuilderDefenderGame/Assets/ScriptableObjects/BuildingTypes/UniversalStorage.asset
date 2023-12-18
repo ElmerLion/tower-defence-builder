@@ -25,6 +25,8 @@ MonoBehaviour:
     storageType: {fileID: 11400000, guid: c333ed71244e38a4382b746c7a26b5bb, type: 2}
   - storage: 100
     storageType: {fileID: 11400000, guid: f3af1500763a9ce42bdb4936b10b4742, type: 2}
+  - storage: 20
+    storageType: {fileID: 11400000, guid: fed2d4a22e6d1b640a4daea081f4aca3, type: 2}
   sprite: {fileID: 21300000, guid: 3ba61c033b40a91489cc57004b12355f, type: 3}
   minConstructionRadius: 7
   constructionResourceCostArray:
